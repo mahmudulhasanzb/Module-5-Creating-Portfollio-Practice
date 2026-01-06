@@ -81,6 +81,7 @@ nav .menu{
 
 nav .menu a{
   font-size: 20px;
+  font-weight: 600;
   color: #474747;
   text-decoration: none;
 }
